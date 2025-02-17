@@ -9,5 +9,5 @@ The Meal Card Activation System is a microservices-based architecture designed t
 3. **Balance Management Service**
 4. **Transaction Processing Service**
 
-## **Communication Flow**
+## **Communication Flow Diagram**
 ![Architecture](https://github.com/amitnaik96/Meal-Card-System/blob/master/design.png)   
